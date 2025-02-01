@@ -1,0 +1,1 @@
+console.log("Interactive Resume Builder запущено!");
